@@ -7,6 +7,7 @@ import {
 const Cart = () => {
   return (
     <div className='flex rounded w-72 p-3 bg-[#222242]'>
+      
        <div className=''>< MdDashboard className='mt-0.5'/></div>
        <div className='flex flex-col ml-2 gap-3'>
         <p className='text-sm'>Total Users</p>
